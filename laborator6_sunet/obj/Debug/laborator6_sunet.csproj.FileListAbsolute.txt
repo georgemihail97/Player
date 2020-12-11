@@ -1,0 +1,74 @@
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.pdb
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\bin\Debug\Interop.WMPLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\bin\Debug\AxInterop.WMPLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\Interop.WMPLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\AxInterop.WMPLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.ResolveComReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.exe
+c:\users\admin\documents\visual studio 2015\Projects\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.pdb
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe.config
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.pdb
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\bin\Debug\Interop.WMPLib.dll
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\bin\Debug\AxInterop.WMPLib.dll
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csprojAssemblyReference.cache
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\Interop.WMPLib.dll
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\AxInterop.WMPLib.dll
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.ResolveComReference.cache
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Form1.resources
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Properties.Resources.resources
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.GenerateResource.cache
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.CoreCompileInputs.cache
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.exe
+D:\work\IDP_CURS3\SIE\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe.config
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\bin\Debug\Interop.WMPLib.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\bin\Debug\AxInterop.WMPLib.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csprojAssemblyReference.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\Interop.WMPLib.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\AxInterop.WMPLib.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.ResolveComReference.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Form1.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Properties.Resources.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.GenerateResource.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.CoreCompileInputs.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe.config
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\bin\Debug\laborator6_sunet.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\bin\Debug\Interop.WMPLib.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csprojAssemblyReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\Interop.WMPLib.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.ResolveComReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Form1.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.Properties.Resources.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.GenerateResource.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.CoreCompileInputs.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator6_sunet\laborator6_sunet\obj\Debug\laborator6_sunet.pdb
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\bin\Debug\laborator6_sunet.exe.config
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\bin\Debug\laborator6_sunet.exe
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\bin\Debug\laborator6_sunet.pdb
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\bin\Debug\Interop.WMPLib.dll
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.csprojAssemblyReference.cache
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\Interop.WMPLib.dll
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.ResolveComReference.cache
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.Form1.resources
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.Properties.Resources.resources
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.GenerateResource.cache
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.csproj.CoreCompileInputs.cache
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.exe
+C:\Users\George Mihail\Desktop\Proiecte\Player\laborator6_sunet\obj\Debug\laborator6_sunet.pdb
